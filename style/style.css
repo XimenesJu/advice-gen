@@ -1,0 +1,14 @@
+.main-background {
+  background-color: #053D38;
+  display: flex;
+  justify-content: center;
+}
+
+.advice-card {
+  background-color: #81CBC4;
+  width: 40%;
+  height: 300px;
+  text-align: center;
+  border-radius: 80px;
+  margin-top: 30vh;
+}
