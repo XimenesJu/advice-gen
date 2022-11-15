@@ -5,10 +5,51 @@
 }
 
 .advice-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
   background-color: #81CBC4;
   width: 40%;
   height: 300px;
   text-align: center;
-  border-radius: 80px;
+  border-radius: 20px;
   margin-top: 30vh;
+  font-family: "Font Awesome 6 Free";
+  letter-spacing: 3px;
+
+
+}
+
+
+
+.btn {
+  font-family: "Font Awesome 6 Free";
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: transparent;
+  border: none;
+  transition-duration: 0.2s;
+}
+
+
+.btn:hover {
+  background-color: #4CAF50;
+  /* Green */
+  color: black;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.btn i {
+  font-size: 30px;
+  text-align: center;
+}
+
+.btn p {
+  text-align: center;
+  font-size: 12px;
+  font-weight: 900;
+  padding: 5px;
 }
