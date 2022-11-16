@@ -10,19 +10,22 @@
   <script src="https://kit.fontawesome.com/735e01ae62.js" crossorigin="anonymous"></script>
   <title>Document</title>
 </head>
-<body class="main-background">
+<body id="container" class="main-background">
   <div class="advice-card">
     <div>
-      <h3>Advice #<p1 id="slipid"></p1></h3>
+      <h3>Advice # 
+        <p1 id="slipid"></p1>
+      </h3>
       <h1 id="advice"></h1>
     </div>
-    <div>
-      
-      <button  onclick="myAdvice()" class="btn">
-        <i class="fa-solid fa-dice"></i>
-        <p>Roll your advice!</p>
-      </button>
-    </div>
+  </div>
+  <div id="line"></div>
+  
+  <div id="button">
+    <button  onclick="myAdvice()" class="btn">
+      <i class="fa-solid fa-dice"></i>
+      <p>Roll your advice!</p>
+    </button>
   </div>
 <script>
   
