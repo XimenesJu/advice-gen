@@ -96,6 +96,78 @@ h1 {
   line-height: 1.6;
 }
 
+
+
+@media (max-height: 375px) and (max-width: 720px) {
+
+  #line {
+    margin-top: 120vh;
+  }
+
+  .advice-card h3,
+  p1 {
+    font-size: 10px;
+  }
+
+  .advice-card h3 p1,
+  h1 {
+    font-size: 8px;
+  }
+
+  #button {
+    margin-top: 200vh;
+  }
+
+  .btn i {
+    font-size: 100%;
+
+  }
+
+  .btn p {
+    font-size: 45%;
+  }
+
+}
+
+
+
+@media (max-height: 1080px) and (max-width: 480px) {
+
+  #line {
+    margin-top: 120vh;
+  }
+
+  .advice-card h3,
+  p1 {
+    font-size: 10px;
+  }
+
+  .advice-card h3 p1,
+  h1 {
+    font-size: 8px;
+  }
+
+  #button {
+    margin-top: 135vh;
+  }
+
+  .btn i {
+    font-size: 100%;
+
+  }
+
+  .btn p {
+    font-size: 45%;
+  }
+
+
+
+}
+
+
+
+
+
 @media screen and (max-width: 768px) {
 
 
@@ -116,36 +188,6 @@ h1 {
   .btn p {
     font-size: 60%;
   }
-
-
-}
-
-
-
-@media screen and (max-width: 480px) {
-
-  #line {
-    margin-top: 130vh;
-  }
-
-  .advice-card h3,
-  p1 {
-    font-size: 10px;
-  }
-
-  .advice-card h3 p1,
-  h1 {
-    font-size: 8px;
-  }
-
-  .btn i {
-    font-size: 100%;
-  }
-
-  .btn p {
-    font-size: 45%;
-  }
-
 
 
 }
