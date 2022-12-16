@@ -7,7 +7,7 @@
 
 The project was a personal challenge to evaluate my skills with HTML, CSS and JS, allowing me to step outside my comfort zone and learn new stuff.   
 .
-You can check out the live server here: [](https://challenge-advicegen01.netlify.app/) 
+You can check out the live server here: [advice generator](https://challenge-advicegen01.netlify.app/) 
 
 #### Preview
 ![Alt text](https://i.imgur.com/3MKWFcn.png)   
