@@ -3,7 +3,7 @@
 
 ##### About the project:   
    
-   This project is a challenge from the Front End Mentor website.
+   This project is a challenge from the [Front End Mentor](https://www.frontendmentor.io/challenges) website.
 
 The project was a personal challenge to evaluate my skills with HTML, CSS and JS, allowing me to step outside my comfort zone and learn new stuff.   
 .
